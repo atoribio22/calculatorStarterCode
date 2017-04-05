@@ -36,7 +36,7 @@ function square_root(x)
 
 function logBase10(x)
 {
-	return Math.LN10(x);
+	return Math.log10(x);
 }
 
 function generateRandomNumber()
